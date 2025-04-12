@@ -1,2 +1,2 @@
-#Python_Basics
+# Python_Basics
 These are some basic python logic building solutions for the beginners...
